@@ -3,13 +3,6 @@
   I’m currently student in Tobb ETU as an Computer Engineer
 </h3>
 
-<img
-  align="right"
-  alt="Coder GIF"
-  height="250"
-  width="350"
-  src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif"
-/>
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=erkamakcinar&label=Profile%20views&color=0e75b6&style=flat"
