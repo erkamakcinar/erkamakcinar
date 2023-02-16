@@ -9,9 +9,9 @@
     alt="erkamakcinar"
   />
 </p>
+
 <p align="center">- 🌱 I’m currently improving my Javascript skill </p>
 <p align="center">- 📫 How to reach me: merkamakcnr@gmail.com</p>
-
 
 <p align="center"></p>
 
@@ -103,7 +103,7 @@
   </a>
 </p>
 
-<p>
+<p align="center">
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=erkamakcinar&show_icons=true&locale=en&layout=compact"
