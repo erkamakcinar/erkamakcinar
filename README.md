@@ -3,20 +3,20 @@
   I’m currently student in Tobb ETU as an Computer Engineer
 </h3>
 
-<p align="left">
+<p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=erkamakcinar&label=Profile%20views&color=0e75b6&style=flat"
     alt="erkamakcinar"
   />
 </p>
+<p align="center">- 🌱 I’m currently improving my Javascript skill </p>
+<p align="center">- 📫 How to reach me: merkamakcnr@gmail.com</p>
 
-- 🌱 I’m currently improving **Javascript** skill 
-- 📫 How to reach me **merkamakcnr@gmail.com**
 
-<p align="left"></p>
+<p align="center"></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
@@ -105,7 +105,7 @@
 
 <p>
   <img
-    align="left"
+    align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=erkamakcinar&show_icons=true&locale=en&layout=compact"
     alt="erkamakcinar"
   />
