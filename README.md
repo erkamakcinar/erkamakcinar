@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Erkam Akçınar</h1>
 <h3 align="center">I’m currently student in Tobb ETU as an Computer Engineer</h3>
 
-<img align="right" alt="Coding" width="300"  src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erkamakcinar&label=Profile%20views&color=0e75b6&style=flat" alt="erkamakcinar" /> </p>
 
-- 🌱 I’m currently improving **Javascript** skills
+- 🌱 I’m currently improving **Javascript** skill
 
 - 📫 How to reach me **merkamakcnr@gmail.com**
 
