@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erkam Akçınar</h1>
 <h3 align="center">I’m currently student in Tobb ETU as an Computer Engineer</h3>
 
+<img align="right" alt="Coding" width="400" style="border-radius: 15px;" src="https://www.lambdatest.com/resources/images/news24.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erkamakcinar&label=Profile%20views&color=0e75b6&style=flat" alt="erkamakcinar" /> </p>
 
 - 🔭 I’m currently working on **2048** which is a AI project
