@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erkamakcinar&label=Profile%20views&color=0e75b6&style=flat" alt="erkamakcinar" /> </p>
 
-- 🔭 I’m currently working on **2048 which is a AI project**
+- 🔭 I’m currently working on **2048** which is a AI project
 
 - 🌱 I’m currently improving **Javascript** skills
 
