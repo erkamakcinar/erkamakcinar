@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Erkam Akçınar</h1>
 <h3 align="center">
-  I’m currently student in Tobb ETU as an Computer Engineer
+  I’m graduated from Tobb ETU as an Computer Engineer
 </h3>
 
 <p align="center">
@@ -10,7 +10,6 @@
   />
 </p>
 
-<p align="center">- 🌱 I’m currently improving my Javascript skill </p>
 <p align="center">- 📫 How to reach me: merkamakcnr@gmail.com</p>
 
 <p align="center"></p>
